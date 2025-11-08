@@ -1,4 +1,3 @@
-```markdown
 # Data Visualization of India
 
 ## Overview
@@ -36,4 +35,3 @@ Demographic data for Indian districts (CSV format). Update `India.csv` for new d
 
 ## License
 MIT License - feel free to use and modify.
-```
